@@ -27,7 +27,7 @@ import javax.swing.JPanel;
  * Maze Solving w/ Graphics
  *
  * @author NTropy
- * @version 12/01/17
+ * @version 1.0
  */
 public class MazeSolver {
 
